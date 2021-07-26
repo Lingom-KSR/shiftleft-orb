@@ -1,4 +1,6 @@
 # Orb Project Template
+
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/cebc86bc-fa4b-41a4-8a2b-ccf8fffa6e4a.svg)](https://app.soluble.cloud/repos/details/github.com/lingom-ksr/shiftleft-orb)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/f6c61061-5458-4e10-8da0-fd82d77110a1.svg)](https://app.soluble.cloud/repos/details/github.com/lingom-ksr/shiftleft-orb)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/7d5e24d9-1042-428e-a90c-233c00cfeb6a.svg)](https://app.soluble.cloud/repos/details/github.com/lingom-ksr/shiftleft-orb)  
 <!---
 [![CircleCI Build Status](https://circleci.com/gh/<organization>/<project-name>.svg?style=shield "CircleCI Build Status")](https://circleci.com/gh/<organization>/<project-name>) [![CircleCI Orb Version](https://badges.circleci.com/orbs/<namespace>/<orb-name>.svg)](https://circleci.com/orbs/registry/orb/<namespace>/<orb-name>) [![GitHub License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/<organization>/<project-name>/master/LICENSE) [![CircleCI Community](https://img.shields.io/badge/community-CircleCI%20Discuss-343434.svg)](https://discuss.circleci.com/c/ecosystem/orbs)
 
